@@ -28,6 +28,8 @@ session_start();
             <li><a href="#servicii">Servicii</a></li>
             <li><a href="#galerie">Galerie</a></li>
             <li><a href="#contact">Contact</a></li>
+            <li><a href="login.php">Login</a></li>
+<li><a href="dashboard.php">Contul meu</a></li>
         </ul>
 
         <a href="#contact" class="nav-btn">Contactează-ne</a>
